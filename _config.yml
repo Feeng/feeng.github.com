@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: 阅微博客
+subtitle:阅微知著，见贤思齐
 description:
 author: Feeng
 language:
@@ -63,11 +63,11 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: jekyll-theme-tactile
+theme: hexo-theme-Daily
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
 	type: git
-	repository: git@github.com:Feeng/junlongfeng.github.com.git
+	repository: git@github.com:Feeng/feeng.github.io.git
 	branch: master
